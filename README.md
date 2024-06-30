@@ -1,4 +1,4 @@
-# markdown
+# Markdown (*.md)
 
 ### What is markdown?
 - Writing Format
